@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">taskTracker</string>
+    <string-array name="category_array">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Health</item>
+        <item>Education</item>
+    </string-array>
+</resources>
